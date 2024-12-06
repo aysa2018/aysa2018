@@ -2,7 +2,7 @@
 
 I'm a Computer Science and Interactive Media student with a passion for full-stack development, data science, and creative projects. I enjoy combining technical skills with artistic flair to build innovative solutions.  
 
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 ### 🔧 Skills & Tools:
