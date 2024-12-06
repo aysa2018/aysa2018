@@ -1,8 +1,8 @@
-### Hi, I'm Aysa 👋
-
-I'm a Computer Science and Interactive Media student with a passion for full-stack development, data science, and creative projects. I enjoy combining technical skills with artistic flair to build innovative solutions.  
-
 ![Header](./github-header-image.png)
+
+Hey there! I'm a Computer Science and Interactive Media student with a passion for full-stack development, data science, and creative projects. I enjoy combining technical skills with artistic flair to build innovative solutions.  
+
+
 
 
 ### 🔧 Skills & Tools:
