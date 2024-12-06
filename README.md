@@ -24,12 +24,12 @@ Hey there! I'm a Computer Science and Interactive Media student with a passion f
 
 ### 🗣️ Talk to me about:
 - **Traveling** 🌍 I’ve visited 24 countries and I enjoy documenting my adventures on [Muma's Passport Diary](https://www.facebook.com/share/17z7AryhwP/?mibextid=LQQJ4d).  
-- **Anime** Currently watching *Fairy Tail*.
+- **Anime**. Currently watching *Fairy Tail*.
 - **Technology trends!** 🤖
-- **Colors** Especially pastels. #ffd1dc is my current favorite
+- **Colors**. Especially pastels. #ffd1dc is my current favorite
 - **Fashion** 🎀🪞🩰🦢🕯️Into Coquette and cottagecore styles lately.  
 - **Digital art and animation** 👾 Exploring new styles while keeping my anime roots.  
-- Memes, brain rot, TikTok, and sprinkling Gen Z slang wherever it fits. "I like my #sootcase#"  
+- Memes, brain rot, TikTok, and sprinkling Gen Z slang wherever it fits. "I like my *sootcase* "  
 
 ### 🔗 Let's Connect: 
 - [LinkedIn](https://www.linkedin.com/in/aysa-binte-masud-213150255/)  
