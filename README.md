@@ -15,6 +15,7 @@ Hey there! I'm a Computer Science and Interactive Media student with a passion f
 - Applied Machine Learning 
 - Advanced full-stack development
 - Product designing basics
+- Intermediate Guitar Techniques
 - Animation techniques and storytelling in digital media
 
 ### 🔍 What I'm Working On:
@@ -27,7 +28,7 @@ Hey there! I'm a Computer Science and Interactive Media student with a passion f
 
 ### 🗣️ Talk to me about:
 - **Traveling** 🌍 I’ve visited 24 countries and I enjoy documenting my adventures on [Muma's Passport Diary](https://www.facebook.com/share/17z7AryhwP/?mibextid=LQQJ4d).  
-- **Anime**. Currently watching *The Adventurous Life of Saiki K*.
+- **Anime** Currently watching *The Adventurous Life of Saiki K*.
 - **Technology trends!** 🤖
 - **Colors**. Especially pastels. #ffd1dc is my current favorite
 - **Fashion** 🎀🪞🩰🦢🕯️Into Coquette and cottagecore styles lately.  
