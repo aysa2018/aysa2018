@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 
 
 I am a Computer Science undergraduate at **New York University Abu Dhabi**, with a minor in Applied Mathematics and Interactive Media. My academic and professional experiences bridge **full-stack development, machine learning, computer vision, and accessibility-focused AI research**. I am passionate about building technologies that integrate technical depth with creative design to solve real-world problems in accessibility, health, and human–computer interaction.
