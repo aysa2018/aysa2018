@@ -1,44 +1,60 @@
 ![Header](./github-header-image.png)
 
-Hey there! I'm a Computer Science and Interactive Media student with a passion for full-stack development, data science, and creative projects. I enjoy combining technical skills with artistic flair to build innovative solutions.  
 
+I am a Computer Science undergraduate at **New York University Abu Dhabi**, with a minor in Applied Mathematics and Interactive Media. My academic and professional experiences bridge **full-stack development, machine learning, computer vision, and accessibility-focused AI research**. I am passionate about building technologies that integrate technical depth with creative design to solve real-world problems in accessibility, health, and human–computer interaction.
 
+---
 
+### 🔧 Skills & Tools
 
-### 🔧 Skills & Tools:
-- **Languages**:  C++, Python, Javascript, HTML, CSS, SQL, Typescript, MATLAB, 
-- **Frameworks & Libraries**: React, Express, Leaflet.js, p5.js, Tailwind CSS, MongoDB, Mongoose, Node.js, Next.js, NumPy, PyTorch, TensorFlow, Scikit-learn, Pandas, NoSQL, MySQL
-- **Tools**: Git, GitHub, Visual Studio Code, Figma, Procreate, Procreate Dream, QGIS, Adobe Illustrator, Adobe Photoshop, Adobe Premiere Pro, After Effects
-- **Other**: Machine Learning, web development, Embedded AI, data scraping, and digital art  
+* **Languages:** C++, Python, JavaScript (ES Modules), TypeScript, HTML, CSS, SQL, MATLAB
+* **Frameworks & Libraries:** React, React Native, Express, Next.js, Node.js, Tailwind CSS, Leaflet.js, p5.js, MongoDB, Mongoose, MySQL, NoSQL, NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow
+* **Tools:** Git/GitHub, Docker, FastAPI, QGIS, Figma, Adobe Photoshop, Illustrator, After Effects, Procreate, Microsoft Office Suite, Excel
+* **Other:** Machine Learning, Computer Vision, Data Science, Multimodal AI, Web Development, Embedded AI, Data Scraping, Digital Art & Animation
 
-### 📚 Currently Learning:
-- Applied Machine Learning 
-- Advanced full-stack development
-- Product designing basics
-- Intermediate Guitar Techniques
-- Animation techniques and storytelling in digital media
+---
 
-### 🔍 What I'm Working On:
-- **Reasearch**: Translating hand pulses (hand signs) to text from video inputs and live videos using machine learning and computer vision techniques
-- **Medinity**: A health app that helps the users to adhere to their medicine schedules and to make conscious decisions while buying medicine, supplements, or skincare items
-- **[math-confidence.com](math-confidence.com)**: An interactive textbook with multiple AI-powered mini tutors that helps the students to understand concepts and empower them by building confidence.
-- **BistroMoods**: A mood-based restaurant finder web app that uses sentiment analysis and map-based features.  
-- **CozyCorner**: A roommate management app for organizing shared tasks, expenses, and decisions.  
-- **AstroEcho**: An immersive, interactive experience that transforms your emotions into breathtaking constellations.  
+### 📚 Currently Exploring
 
-### 🗣️ Talk to me about:
-- **Traveling** 🌍 I’ve visited 24 countries and I enjoy documenting my adventures on [Muma's Passport Diary](https://www.facebook.com/share/17z7AryhwP/?mibextid=LQQJ4d).  
-- **Anime** Currently watching *The Adventurous Life of Saiki K*.
-- **Technology trends!** 🤖
-- **Colors**. Especially pastels. #ffd1dc is my current favorite
-- **Fashion** 🎀🪞🩰🦢🕯️Into Coquette and cottagecore styles lately.  
-- **Digital art and animation** 👾 Exploring new styles while keeping my anime roots.  
-- Memes, brain rot, TikTok, and sprinkling Gen Z slang wherever it fits. "I like my *sootcase* "  
+* Applied Machine Learning & Multimodal AI
+* Computer Vision
+* Human–Robot Interaction and Real-Time AI Systems
+* Design for Accessibility & Human-Centered Computing
 
-### 🔗 Let's Connect: 
-- [LinkedIn](https://www.linkedin.com/in/aysa-binte-masud-213150255/)  
+---
 
+### 🔍 Selected Projects
 
-_"Crafting dreams in code and colors, one pixel at a time ✨"_  
+* **Research Assistant:** Developed and evaluated **computer vision pipelines** for embodied AI agents, including sign language understanding and human–robot interaction; optimized models for **real-time inference on edge devices (CUDA, NVIDIA Jetson)**.
+* **ChatSign Technology (ML Intern):** Designed and fine-tuned **sign language translation models** using multimodal datasets; contributed to accessibility tools for **Deaf and Hard-of-Hearing communities**.
+* **EZ247:** Real-time, voice-enabled AI assistant for university dining halls, integrating **Ollama-powered LLMs, FastAPI, and MCP servers**, achieving a **40% reduction in response latency** with GPU acceleration.
+* **Medinity:** A React Native + Node/Express health app that helps users adhere to medicine schedules and make informed healthcare choices, powered by **OpenFDA integration**.
+* **[math-confidence.com](http://math-confidence.com):** Interactive AI-powered learning platform with mini-tutors designed to boost student confidence in mathematics.
+* **BistroMoods:** Mood-based restaurant finder leveraging **sentiment analysis, APIs, and map-based visualization**.
+* **CozyCorner:** Roommate management platform for shared tasks, expenses, and community building.
+* **AstroEcho:** Immersive digital experience transforming emotions into generative constellations.
+
+---
+
+### 🗣️ Interests
+
+* **Artificial Intelligence & Accessibility** — Multimodal AI, Computer Vision, Human–Robot Interaction
+* **Software Development** — Full-Stack Systems, Scalable Architectures, Data-Driven Applications
+* **Creative Tech** — Digital Art, Animation, and Interactive Media Design
+* **Global Exploration** — Passionate about travel, cross-cultural collaboration, and storytelling through tech and media
+
+---
+
+### 🔗 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/aysa-binte-masud-213150255/)
+* [GitHub](https://github.com/aysa2018)
+
+---
+
+✨ *"Crafting intelligent and creative systems at the intersection of code, design, and impact."*
+
+---
+
 
 
